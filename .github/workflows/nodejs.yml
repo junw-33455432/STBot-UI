@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: 18
       - run: |
-        echo "Build nodejs project"
+          echo "Build nodejs project"
